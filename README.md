@@ -50,7 +50,3 @@ Get-ChildItem -LiteralPath $source -Directory | Where-Object Name -like 'chuanzh
 <img src="assets/chuanzhang-wechat-qr.jpg" alt="船长AI视界公众号二维码" width="220">
 
 二维码由船长AI视界提供。
-
-## 来源与许可
-
-本仓库是基于 [shuohao-skills](https://github.com/eternityspring/shuohao-skills) 的定制版本，调整了技能名称、界面配色、品牌文案和部分说明。原项目采用 Apache License 2.0。各技能目录保留原许可文件和 NOTICE，并记录本地修改；请在再分发时一并保留。
