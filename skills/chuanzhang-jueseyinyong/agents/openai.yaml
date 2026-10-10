@@ -1,0 +1,5 @@
+interface:
+  display_name: "船长AI视界·角色参考"
+  short_description: "制作角色锚点与不同视角的参考图资产"
+  brand_color: "#82D8A5"
+  default_prompt: "使用 $chuanzhang-jueseyinyong 处理我提供的小说素材。"

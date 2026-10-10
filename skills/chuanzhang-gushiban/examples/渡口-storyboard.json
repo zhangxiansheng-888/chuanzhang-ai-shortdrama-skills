@@ -1,0 +1,854 @@
+{
+  "source": "渡口",
+  "episodes": [
+    {
+      "ep": 1,
+      "segments": [
+        {
+          "id": "E01-01",
+          "sceneIndex": 1,
+          "cuts": [
+            {
+              "beats": [
+                1,
+                1
+              ],
+              "seconds": 3,
+              "size": "medium",
+              "camera": "Tracking Shot",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "中景，浓雾清晨的河岸土路上，沈知微穿素色旗袍抱着旧皮箱向前奔跑，脚下是芦苇与水洼，衣摆和碎发被跑动带起，前方还看不见栈桥",
+              "shot": "镜头从背后平稳跟随一名穿素色旗袍的年轻女子，她双臂把旧皮箱紧紧搂在胸前，沿泥泞河岸快步小跑，鞋底踏过水洼溅起水花，背影渐渐被浓雾吞没",
+              "lens": "35mm 广角，中景深",
+              "cameraPosition": "年轻女子 + 背后平视跟随",
+              "composition": "中心构图",
+              "eyeline": "前方雾中",
+              "focus": "锁定年轻女子背影与怀中皮箱",
+              "stability": "slight-shake"
+            },
+            {
+              "beats": [
+                2,
+                2
+              ],
+              "seconds": 3,
+              "size": "extreme-wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "大远景，浓雾吞没的木栈桥，跳板没入白雾，老周蹲在木渡船船头，旱烟锅一点红光透出雾气",
+              "shot": "固定镜头远望，木栈桥从浓雾里慢慢显出轮廓，一名戴斗笠披蓑衣的老船夫蹲在船头，嘴边旱烟的火光一明一暗",
+              "lens": "24mm 广角，深景深",
+              "cameraPosition": "栈桥全貌 + 平视远眺",
+              "composition": "引导线构图",
+              "eyeline": "老船夫低头看着烟锅",
+              "focus": "锁定船头的老船夫剪影",
+              "stability": "stable",
+              "sfx": "远处梆子声闷闷响两下"
+            },
+            {
+              "beats": [
+                3,
+                3
+              ],
+              "seconds": 4,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "全景，老周戴斗笠披蓑衣站在系泊的木渡船船头，一手拢在嘴边朝雾中岸上吆喝，身后是带长凳的船舱和打着补丁的船篷，跳板与系船桩可见，浓重晨雾",
+              "shot": "固定镜头，老船夫从船头站起身，一手拢在嘴边，扯着嗓子不急不躁地朝雾里的岸上吆喝",
+              "lens": "35mm 广角，中景深",
+              "cameraPosition": "老船夫 + 平视正侧面",
+              "composition": "三分法",
+              "eyeline": "岸上雾中",
+              "focus": "锁定老船夫上半身",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                4,
+                5
+              ],
+              "seconds": 5,
+              "size": "wide",
+              "camera": "Tracking Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "全景，胡二爷挑着两筐货担沿湿滑跳板快步赶来，扁担随脚步上下颤，身后栈桥被雾吞没",
+              "shot": "镜头平稳跟随一名挑着货担的中年货郎，他气喘吁吁地沿湿滑跳板快步赶来，扁担随脚步上下颤动，边走边扬声招呼",
+              "lens": "35mm 广角，中景深",
+              "cameraPosition": "中年货郎 + 侧面平视跟随",
+              "composition": "对角线构图",
+              "eyeline": "船头",
+              "focus": "锁定中年货郎和货担",
+              "stability": "slight-shake"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 3.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 6.00-second mark of the target video; Picture 4 (from Shot 4) aligns with the 10.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The cold open follows <Picture 1>: a young woman in a plain qipao runs through thick fog along a muddy riverside path, reeds and puddles at her feet, an old leather suitcase hugged tight against her chest; a tracking shot follows her from behind, the pier not yet in sight as the fog swallows her silhouette.\n[Shot 2] At 00:03.000, the camera cuts to the extreme wide view of <Picture 2>: the run ends and the wooden pier finally emerges from the fog, the old ferryman squatting at the bow of the ferry as a faint silhouette with his pipe ember glowing through the mist; the camera holds a static shot while distant watchman clappers knock, muffled as if wrapped in cotton.\n[Shot 3] At 00:06.000, the shot cuts to the framing of <Picture 3>: the ferryman stands at the bow with one hand cupped to his mouth, the camera holds a static shot, and the weathered old boatman with a loud, coarse, unhurried voice (S1) calls toward the shore: <d>[Chinese] 上船喽——过河的抓紧，雾要变天。</d>\n[Shot 4] At 00:10.000, the shot cuts to <Picture 4> and a tracking shot follows the middle-aged peddler with a bright, breathless voice (S2) hurrying along the gangplank under a loaded shoulder pole, shouting: <d>[Chinese] 等等二爷我！这雾天赶船，命都得跑掉半条。</d>\n\noverall_soundscape: Rapid running footsteps splash along a wet riverside path through fog-damped silence, water laps softly against the pilings, wooden clappers knock twice in the far distance, and rattling baskets close in later along the gangplank.\n\nnon_diegetic_music: Sustained low strings at a very slow tempo, barely above silence.",
+          "blocking": "开场只有沈知微一人：她在画面中央偏右，背对镜头沿河岸土路向前跑，前方约三十步外是还没露出雾的栈桥。老周在栈桥尽头的船头，胡二爷随后从跳板远端赶来，两人不在同一画面。",
+          "soundscape": "雾里河岸土路上急促的脚步踩着水洼，河水轻拍栈桥木桩，远处梆子敲了两下，随后跳板上货筐晃动的声响由远及近",
+          "music": "极慢速度的低音弦乐持续音，几乎贴着寂静"
+        },
+        {
+          "id": "E01-02",
+          "sceneIndex": 1,
+          "cuts": [
+            {
+              "beats": [
+                6,
+                6
+              ],
+              "seconds": 3,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C03",
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，晨雾中的船舷边，胡二爷挑着满担的货踏上船，老周伸手帮他把担子卸进船舱，两人都笼在平淡的雾光里",
+              "shot": "固定镜头，一名中年货郎挑着货担跨上船舷，一名老船夫顺势伸手搭住扁担，两人合力把货担缓缓放进船舱",
+              "lens": "50mm 标准，中景深",
+              "cameraPosition": "双人 + 平视侧面",
+              "composition": "三分法",
+              "eyeline": "脚下的货担",
+              "focus": "锁定两人交接货担的手",
+              "stability": "stable",
+              "sfx": "货筐落地，小铜铃轻响一声"
+            },
+            {
+              "beats": [
+                7,
+                7
+              ],
+              "seconds": 3,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "中景，木渡船上，老周戴斗笠披蓑衣站在船舱入口，叼着旱烟面朝舱内说话，四周是长凳和补丁船篷，晨雾",
+              "shot": "固定镜头，老船夫站在船舱入口，旱烟叼在嘴里没拿下来，面朝舱内慢悠悠开口，语气干巴巴的",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "老船夫 + 平视正面",
+              "composition": "框架构图",
+              "eyeline": "舱内的货担",
+              "focus": "锁定老船夫面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                8,
+                8
+              ],
+              "seconds": 4,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，木渡船舱内，胡二爷咧嘴笑着坐在长凳上，货担放在身边，得意地拍着货筐，周围是木长凳和补丁船篷，雾里透进来的晨光",
+              "shot": "固定镜头，中年货郎坐在长凳上，一手拍着身边的货筐，咧嘴笑着回话",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "三分法",
+              "eyeline": "船舱入口的老船夫",
+              "focus": "锁定中年货郎上半身",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                9,
+                9
+              ],
+              "seconds": 4,
+              "size": "close",
+              "camera": "Push In",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "特写，雾中湿滑的跳板上，沈知微穿素色旗袍踏上跳板，旧皮箱抱在胸前，铜扣泛着绿锈，指节用力到发白",
+              "shot": "镜头小幅缓推，一名穿素色旗袍的年轻女子最后一个踏上湿滑的跳板，旧皮箱抱在怀里，推近到她攥着箱沿、用力到发白的指节",
+              "lens": "85mm 长焦，浅景深",
+              "cameraPosition": "年轻女子 + 平视正侧面",
+              "composition": "中心构图",
+              "eyeline": "脚下的跳板",
+              "focus": "锁定攥着箱沿的双手",
+              "stability": "stable"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 3.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 6.00-second mark of the target video; Picture 4 (from Shot 4) aligns with the 10.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The gunwale view of <Picture 1> holds as the middle-aged peddler steps aboard with his loaded shoulder pole and the old ferryman lends a hand, the two of them setting the load down into the cabin together; the camera holds a static shot as the baskets settle.\n[Shot 2] At 00:03.000, the camera cuts to <Picture 2>: on board, the ferryman stands by the cabin entrance facing into the cabin, pipe still in his teeth; the camera holds a static shot as the weathered old boatman with a coarse, dry-humored voice (S1) says toward the inside: <d>[Chinese] 胡二爷，你这担子比人金贵。</d>\n[Shot 3] At 00:06.000, the shot cuts to <Picture 3>: seated in the cabin beside his baskets, the grinning peddler pats them, and the middle-aged peddler with a bright, boastful voice (S2) laughs back over a static shot: <d>[Chinese] 那可不——吃饭的家伙，比命金贵。</d>\n[Shot 4] At 00:10.000, the shot cuts to <Picture 4>: a young woman in a plain qipao steps onto the wet gangplank with an old leather suitcase hugged to her chest, and a slow push in with small amplitude closes on her whitened knuckles around the case edge.\n\noverall_soundscape: Baskets creak softly as the load settles onto the cabin floor with a light chime of small brass bells, wood knocks gently, and slow careful footsteps creak along the wet gangplank.\n\nnon_diegetic_music: N/A",
+          "blocking": "开场在船舷边：胡二爷挑着货担在画面左侧踏上船，老周在右侧伸手去接担子，两人相距约一步，都面朝船舱入口。沈知微此时还在岸上，最后一镜才上跳板。",
+          "soundscape": "货筐落进船舱时吱嘎作响，小铜铃轻轻一响，木头闷声相碰，湿跳板上传来缓慢小心的脚步声"
+        },
+        {
+          "id": "E01-03",
+          "sceneIndex": 1,
+          "cuts": [
+            {
+              "beats": [
+                10,
+                10
+              ],
+              "seconds": 4,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C01",
+                "C03"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "中景，木渡船船头附近，老周低头盘着缆绳眼皮都不抬，沈知微抱着旧皮箱僵直地站着，身后的雾像一堵白墙",
+              "shot": "固定镜头，老船夫低头一圈圈盘着缆绳，眼皮都没抬，随口撂下一句；旁边抱着皮箱的年轻女子站着没动",
+              "lens": "50mm 标准，中景深",
+              "cameraPosition": "双人 + 平视侧面",
+              "composition": "三分法",
+              "eyeline": "老船夫看缆绳，年轻女子看老船夫",
+              "focus": "锁定老船夫手中的缆绳",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                11,
+                11
+              ],
+              "seconds": 3,
+              "size": "close",
+              "camera": "Push In",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "特写，沈知微双臂把旧皮箱又收紧了些，下巴微抬，雾光下眼神很稳",
+              "shot": "镜头小幅缓推，年轻女子双臂把皮箱又收紧一些，下巴微抬，声音很轻却不留商量地回答",
+              "lens": "85mm 长焦，浅景深",
+              "cameraPosition": "年轻女子 + 平视正面",
+              "composition": "中心构图",
+              "eyeline": "对方面部",
+              "focus": "锁定年轻女子面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                12,
+                12
+              ],
+              "seconds": 3,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "全景，浓雾中系泊的木渡船船头，老周把跳板收上船，沈知微抱着皮箱坐在他身后",
+              "shot": "固定镜头，老船夫看了她一眼没有说话，转身把跳板拖上船",
+              "lens": "35mm 广角，中景深",
+              "cameraPosition": "船头 + 平视侧面",
+              "composition": "对角线构图",
+              "eyeline": "老船夫先看年轻女子，再看跳板",
+              "focus": "锁定老船夫",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                13,
+                13
+              ],
+              "seconds": 2,
+              "size": "wide",
+              "camera": "Pull Out",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "全景，木渡船撑离栈桥，老周把长竹篙插进水里，栈桥的灯笼缩进雾中，黑水上泛起细细的波纹",
+              "shot": "镜头缓缓拉开，老船夫把竹篙往岸上一点，扬声招呼坐稳，渡船向前滑出，栈桥的灯笼慢慢隐进雾里",
+              "lens": "35mm 广角，深景深",
+              "cameraPosition": "船尾 + 平视",
+              "composition": "引导线构图",
+              "eyeline": "前方河面",
+              "focus": "锁定船头撑篙的老船夫",
+              "stability": "stable"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 4.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 7.00-second mark of the target video; Picture 4 (from Shot 4) aligns with the 10.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] Holding the two-figure composition of <Picture 1> near the bow, the old ferryman keeps coiling rope without lifting his eyes; the camera holds a static shot as the weathered old boatman with a flat, indifferent voice (S1) mutters: <d>[Chinese] 箱子沉就搁船头，掉河里我可不捞。</d>\n[Shot 2] At 00:04.000, the camera cuts to the close framing of <Picture 2>: the young woman tightens both arms around the suitcase, a gentle push in with small amplitude, and the quiet young woman with a soft but unyielding voice (S2) answers: <d>[Chinese] 不劳烦。它跟我。</d>\n[Shot 3] At 00:07.000, the shot cuts to <Picture 3>: the old ferryman gives her one brief glance without a word, then pulls the gangplank aboard; the camera holds a static shot.\n[Shot 4] At 00:10.000, the shot cuts to <Picture 4> and a slow pull out opens across the dark water as (S1) plants the pole and calls: <d>[Chinese] 坐稳——开船。</d> — the ferry slides forward and the pier lantern dissolves into fog.\n\noverall_soundscape: Rope fibers rasp over the gunwale, the bamboo pole knocks once and dips with a heavy push, and the gangplank planks are dragged aboard.\n\nnon_diegetic_music: Sparse low strings at a slow tempo fade in for a few seconds and out again.",
+          "blocking": "船头附近：老周在画面左侧低头盘缆绳，沈知微在右侧约两步外站着，抱着皮箱面朝他，身后是一片白雾。",
+          "soundscape": "缆绳纤维擦过船舷，竹篙点岸一声闷响后沉沉一撑，跳板木板被拖上船",
+          "music": "稀疏的低音弦乐慢速淡入，几拍后又淡出"
+        },
+        {
+          "id": "E01-04",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                1,
+                1
+              ],
+              "seconds": 3,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C02",
+                "C04"
+              ],
+              "props": [],
+              "frame": "全景，雾光里昏暗的木渡船舱内，货担占了半条长凳，陆行远穿深色长大衣靠着舱壁，右手揣在大衣口袋里",
+              "shot": "固定镜头，昏暗的船舱随水轻轻摇晃，货担占去半条长凳，一名穿深色长大衣的男子靠着舱壁坐着，右手揣在口袋里一动不动",
+              "lens": "24mm 广角，深景深",
+              "cameraPosition": "船舱 + 平视正面",
+              "composition": "对称构图",
+              "eyeline": "长大衣男子望着舱外",
+              "focus": "锁定长大衣男子",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                2,
+                2
+              ],
+              "seconds": 5,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，胡二爷咧嘴笑着朝舱内过道探身问话，舱口透进雾光",
+              "shot": "固定镜头，中年货郎咧嘴笑着朝过道探过身，自来熟地搭话",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "三分法",
+              "eyeline": "舱口进来的年轻女子",
+              "focus": "锁定中年货郎面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                3,
+                3
+              ],
+              "seconds": 3,
+              "size": "medium",
+              "camera": "Tracking Shot",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "中景，沈知微穿素色旗袍抱着旧皮箱穿过船舱，走向离所有人最远的角落坐下，周围是长凳和雾光",
+              "shot": "镜头平稳跟随年轻女子穿过船舱，她没有接话，径直走到离所有人最远的角落坐下，把皮箱搁在膝上，双臂环住",
+              "lens": "35mm 广角，中景深",
+              "cameraPosition": "年轻女子 + 侧面平视跟随",
+              "composition": "引导线构图",
+              "eyeline": "舱角的空位",
+              "focus": "锁定年轻女子和怀中皮箱",
+              "stability": "slight-shake"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 3.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 8.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The dim cabin of <Picture 1> holds: goods baskets hog half a bench while the man in the long dark coat leans against the wall, right hand buried in his coat pocket, completely still; the camera holds a static shot as the cabin rocks gently.\n[Shot 2] At 00:03.000, the camera cuts to the grinning peddler of <Picture 2> leaning toward the aisle, static shot, and the middle-aged peddler with a bright, over-familiar voice (S1) asks: <d>[Chinese] 姑娘头回走这条水路吧？我一看一个准。</d>\n[Shot 3] At 00:08.000, the shot cuts to <Picture 3> and a tracking shot follows the young woman crossing to the farthest corner seat without answering, settling the old leather suitcase on her knees and folding both arms around it.\n\noverall_soundscape: The hull creaks in a slow rhythm over water sliding beneath the boards, basket straps rustle, and footsteps knock softly across the deck before a bench creaks.\n\nnon_diegetic_music: N/A",
+          "blocking": "昏暗船舱里：陆行远在画面左侧靠舱壁坐，右手揣在大衣口袋里；胡二爷坐在右侧，货担占了半条长凳，两人相隔约一臂。舱口在画面深处，沈知微从那里进来。",
+          "soundscape": "船身随水缓慢吱呀，船底下水流滑过，货担绳索窸窣，甲板上轻轻的脚步声后长凳一响"
+        },
+        {
+          "id": "E01-05",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                4,
+                4
+              ],
+              "seconds": 5,
+              "size": "close",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "特写，胡二爷从长凳上半起身，笑得热络，眼神在打量，船舱光线昏暗",
+              "shot": "固定镜头，中年货郎从长凳上半欠起身，笑得热络，眼睛却在打量对面，追着又问一句",
+              "lens": "85mm 长焦，浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "三分法",
+              "eyeline": "对面的年轻女子",
+              "focus": "锁定中年货郎面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                5,
+                5
+              ],
+              "seconds": 3,
+              "size": "close",
+              "camera": "Static Shot",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "特写，沈知微垂着眼，旧皮箱搁在膝上，双臂环住，身处船舱角落的阴影里",
+              "shot": "固定镜头，年轻女子垂着眼没有抬头，双臂仍环着膝上的皮箱，语气平淡地回绝",
+              "lens": "85mm 长焦，浅景深",
+              "cameraPosition": "年轻女子 + 平视正面",
+              "composition": "中心构图",
+              "eyeline": "膝上的皮箱",
+              "focus": "锁定年轻女子面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                6,
+                6
+              ],
+              "seconds": 5,
+              "size": "medium",
+              "camera": "Push In",
+              "characters": [
+                "C01",
+                "C04"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "中景，船舱里的双人构图，胡二爷的手伸向沈知微膝上的旧皮箱，伸出的手透着紧张",
+              "shot": "镜头小幅缓推，中年货郎笑得更开，一边说一边把手伸向年轻女子膝上的皮箱，画面随之收紧",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "双人 + 平视侧面",
+              "composition": "对角线构图",
+              "eyeline": "中年货郎看皮箱",
+              "focus": "锁定伸向皮箱的手",
+              "stability": "stable"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 5.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 8.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The close framing of <Picture 1> holds on the peddler half risen from his bench; the camera holds a static shot as the peddler with a warm, pushy voice (S1) presses: <d>[Chinese] 城里亲戚接站，还是投店？二爷我熟门熟路。</d>\n[Shot 2] At 00:05.000, the camera cuts to the reverse close-up of <Picture 2>: the young woman keeps her eyes lowered over a static shot, and the quiet young woman with a flat, guarded voice (S2) replies: <d>[Chinese] 借过就好，不敢劳动。</d>\n[Shot 3] At 00:08.000, the shot cuts to <Picture 3>: his hand starts toward the suitcase on her knees while a slow push in with small amplitude tightens the frame, and (S1) grins wider: <d>[Chinese] 嗨，出门在外别客气——箱子给我，搁上头稳当。</d>\n\noverall_soundscape: A bench scrapes as he rises, clothes rustle in the narrow cabin, and the hull keeps its slow creak over passing water.\n\nnon_diegetic_music: N/A",
+          "blocking": "胡二爷在画面左侧从长凳上半起身，沈知微在右侧舱角坐着、皮箱搁在膝上，两人相距约两步，面对面。",
+          "soundscape": "长凳被起身带得一刮，窄船舱里衣料窸窣，船身继续在流水上缓缓吱呀"
+        },
+        {
+          "id": "E01-06",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                7,
+                7
+              ],
+              "seconds": 2,
+              "size": "close",
+              "camera": "Static Shot",
+              "characters": [
+                "C01",
+                "C04"
+              ],
+              "props": [
+                "P01"
+              ],
+              "recipe": "hands-tell",
+              "frame": "特写，只拍手部，不露脸：沈知微的手猛地按在旧皮箱箱盖上，指下压着泛绿锈的铜扣，画面边缘一只伸来的手僵在半空",
+              "shot": "固定镜头，一只手猛地按住皮箱箱盖，把铜扣压在指下，又快又重；画面边缘另一只伸过来的手僵住",
+              "lens": "100mm 微距，极浅景深",
+              "cameraPosition": "箱盖 + 俯视 30°",
+              "composition": "中心构图",
+              "eyeline": "不露脸",
+              "focus": "锁定按在箱盖上的手",
+              "stability": "stable",
+              "sfx": "手掌拍在皮面上的一声闷响"
+            },
+            {
+              "beats": [
+                8,
+                8
+              ],
+              "seconds": 3,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，胡二爷的手僵在半空，笑容在脸上发僵，昏暗的船舱一片安静",
+              "shot": "固定镜头，满舱的闲谈声一下停了，中年货郎的手僵在半空，脸上的笑慢慢僵住",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "三分法",
+              "eyeline": "按住皮箱的那只手",
+              "focus": "锁定中年货郎面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                9,
+                9
+              ],
+              "seconds": 4,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "全景，从船舱口望向船头，老周头也不回地撑着竹篙，一边干活一边说话，舱外是雾",
+              "shot": "固定镜头，从舱口望向船头，老船夫手里的竹篙不停，头也不回，不紧不慢地撂下一句规矩",
+              "lens": "35mm 广角，深景深",
+              "cameraPosition": "舱口 + 平视望向船头",
+              "composition": "框架构图",
+              "eyeline": "前方河面",
+              "focus": "锁定船头撑篙的老船夫",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                10,
+                10
+              ],
+              "seconds": 3,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，胡二爷讪讪地把手收回来，点了两下头，挤出一个赔笑",
+              "shot": "固定镜头，中年货郎讪讪地把手缩回来，点了两下头，挤着赔笑嘟囔",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "三分法",
+              "eyeline": "自己收回的手",
+              "focus": "锁定中年货郎上半身",
+              "stability": "stable"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 2.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 5.00-second mark of the target video; Picture 4 (from Shot 4) aligns with the 9.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The insert of <Picture 1> lands hard: the young woman's hand slams down on the suitcase lid, pinning the brass clasp under her fingers — fast and hard; the camera holds a static shot on the impact.\n[Shot 2] At 00:02.000, the camera cuts to <Picture 2>: the cabin chatter dies, the peddler's reaching hand hangs frozen mid-air and his grin stiffens; static shot.\n[Shot 3] At 00:05.000, the shot cuts to <Picture 3>, through the opening toward the bow, static shot, and the weathered old boatman with a slow, even voice (S1) says without stopping his pole work: <d>[Chinese] 船上有个规矩——不问来路，不碰行李。</d>\n[Shot 4] At 00:09.000, the shot cuts to <Picture 4>: the peddler pulls his hand back and bows his head twice over a static shot, and the peddler with a deflated, placating voice (S2) mutters: <d>[Chinese] 是是，二爷我多嘴，多嘴。</d>\n\noverall_soundscape: A flat sharp slap of palm on leather cuts through the cabin followed by a sudden hush, then the bamboo pole dips and drips in a steady cycle at the bow.\n\nnon_diegetic_music: N/A",
+          "blocking": "沈知微在画面右侧坐着，皮箱在膝上；胡二爷在左侧，手悬在皮箱上方约一掌处；老周在画面深处舱口外的船头，背对船舱撑篙。",
+          "soundscape": "手掌拍在皮面上的清脆一声划破船舱，随即一片寂静，船头竹篙一下下入水、滴水"
+        },
+        {
+          "id": "E01-07",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                11,
+                11
+              ],
+              "seconds": 3,
+              "size": "extreme-wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "大远景，河心的木渡船被浓雾吞没，水与雾连成一片灰，船头的老周是一个小小的竖直身影，船舱里胡二爷坐立不安的影子在动",
+              "shot": "固定镜头远望河心，雾贴着水面走，渡船只是一道暗影，船头撑篙的身影一动不动，船舱里一个坐不住的身影在张望",
+              "lens": "24mm 广角，深景深",
+              "cameraPosition": "河面 + 平视远眺",
+              "composition": "三分法",
+              "eyeline": "中年货郎四处张望",
+              "focus": "锁定河心的渡船",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                12,
+                12
+              ],
+              "seconds": 4,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，胡二爷在船舱里坐不住，朝船头喊话，眼睛往雾里四处瞟",
+              "shot": "固定镜头，中年货郎坐不住，左右张望了一圈，扭头朝船头没话找话地喊",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "三分法",
+              "eyeline": "船头方向",
+              "focus": "锁定中年货郎面部",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                13,
+                13
+              ],
+              "seconds": 4,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "全景，浓雾中的渡船船头，老周背对镜头，竹篙一起一落节奏不断",
+              "shot": "固定镜头对着船头，老船夫背对镜头，竹篙一起一落没有停，头也不回，稳稳地答了一句",
+              "lens": "35mm 广角，中景深",
+              "cameraPosition": "老船夫 + 背后平视",
+              "composition": "中心构图",
+              "eyeline": "前方河面",
+              "focus": "锁定老船夫背影",
+              "stability": "stable"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 3.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 7.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The mid-river view of <Picture 1> holds: fog hugging the water into one gray sheet, the ferry a dark sliver, the ferryman a calm vertical figure at the bow; static shot while the peddler's restless silhouette stirs in the cabin.\n[Shot 2] At 00:03.000, the camera cuts to <Picture 2>, static shot, and the peddler with a fidgety, talk-filling voice (S1) calls toward the bow: <d>[Chinese] 老周，今儿这雾邪性，走得完吗？</d>\n[Shot 3] At 00:07.000, the shot cuts to the bow of <Picture 3>: without turning, over a static shot with the pole rising and falling, the weathered old boatman with an unhurried, granite-steady voice (S2) answers: <d>[Chinese] 走了四十年，没有走不完的河。</d>\n\noverall_soundscape: The pole enters and leaves the water in slow even strokes, fog-muffled ripples spread along the hull, and a basket strap creaks as the peddler shifts his weight.\n\nnon_diegetic_music: N/A",
+          "blocking": "渡船行到河心：老周在画面左侧船头站着撑篙，背对船舱；胡二爷在右侧船舱里坐不住地东张西望，两人相距约五步。",
+          "soundscape": "竹篙缓慢均匀地入水出水，雾里闷住的涟漪沿船身散开，货郎挪动身子时货担绳子吱的一声"
+        },
+        {
+          "id": "E01-08",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                14,
+                14
+              ],
+              "seconds": 4,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C02",
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，船舱里，胡二爷转向穿深色长大衣的陆行远搭话，陆行远的目光一直落在舱口外的雾上，两人之间隔着沉闷的空当",
+              "shot": "固定镜头，中年货郎转向穿深色长大衣的男子，堆着笑试探着问，对方的目光仍落在舱口外的雾里",
+              "lens": "50mm 标准，中景深",
+              "cameraPosition": "双人 + 平视侧面",
+              "composition": "三分法",
+              "eyeline": "中年货郎看长大衣男子，长大衣男子看舱外",
+              "focus": "锁定中年货郎",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                15,
+                15
+              ],
+              "seconds": 3,
+              "size": "close",
+              "camera": "Static Shot",
+              "characters": [
+                "C02"
+              ],
+              "props": [],
+              "frame": "特写，陆行远穿深色长大衣，极轻地点了一下头，眼睛盯着舱口外的雾，半张脸在阴影里",
+              "shot": "固定镜头，长大衣男子极轻地点了一下头，眼睛始终没离开舱外的雾",
+              "lens": "85mm 长焦，浅景深",
+              "cameraPosition": "长大衣男子 + 平视正侧面",
+              "composition": "三分法",
+              "eyeline": "舱口外的雾",
+              "focus": "锁定长大衣男子的眼睛",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                16,
+                16
+              ],
+              "seconds": 4,
+              "size": "medium",
+              "camera": "Static Shot",
+              "characters": [
+                "C04"
+              ],
+              "props": [],
+              "frame": "中景，胡二爷朝整个船舱夸张地一耸肩，两手一摊，苦笑",
+              "shot": "固定镜头，中年货郎冲满舱的人夸张地耸了耸肩，两手一摊，自讨没趣地叹气",
+              "lens": "50mm 标准，中浅景深",
+              "cameraPosition": "中年货郎 + 平视正面",
+              "composition": "中心构图",
+              "eyeline": "满舱的人",
+              "focus": "锁定中年货郎上半身",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                17,
+                17
+              ],
+              "seconds": 3,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C03"
+              ],
+              "props": [],
+              "frame": "全景，从船舱里望向船头，老周的背影短促地笑得一抖，竹篙点水处荡开涟漪",
+              "shot": "固定镜头，从船舱里望向船头，老船夫的背影轻轻一抖笑了一声，没有回头，船底的水声一下一下",
+              "lens": "35mm 广角，深景深",
+              "cameraPosition": "舱内 + 平视望向船头",
+              "composition": "框架构图",
+              "eyeline": "前方河面",
+              "focus": "锁定老船夫背影",
+              "stability": "stable"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 4.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 7.00-second mark of the target video; Picture 4 (from Shot 4) aligns with the 11.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] Keeping the cabin composition of <Picture 1>, the peddler turns to the man in the long dark coat; static shot, and the peddler with a probing, cheerful voice (S1) tries: <d>[Chinese] 这位先生面生得很，也是去县城？</d>\n[Shot 2] At 00:04.000, the camera cuts to the close framing of <Picture 2>: the man in the dark coat gives a single faint nod, eyes never leaving the fog; static shot.\n[Shot 3] At 00:07.000, the shot cuts to <Picture 3>: the peddler shrugs theatrically to the whole cabin, static shot, and the same cheerful voice (S1) sighs: <d>[Chinese] 得，一船的闷葫芦，就我一个人长嘴。</d>\n[Shot 4] At 00:11.000, the shot cuts to <Picture 4>: from inside the cabin the old ferryman's back shakes once with a short laugh he does not turn around for; static shot while water ticks under the hull like something counting down.\n\noverall_soundscape: The hull groans softly on a slow swell, a short huff of breath accompanies the shrug, then one dry laugh from the bow over water knocking in a steady patient rhythm.\n\nnon_diegetic_music: N/A",
+          "blocking": "船舱里：胡二爷在画面右侧转身面向左侧的陆行远，两人相距约一臂；陆行远靠舱壁坐，脸朝舱口外的雾，右手在大衣口袋里。老周在画面深处的船头。",
+          "soundscape": "船身在缓慢的起伏里低低作响，耸肩时一声短促的出气，船头传来一声干笑，船底的水一下一下耐心地敲着"
+        },
+        {
+          "id": "E01-09",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                18,
+                18
+              ],
+              "seconds": 3,
+              "size": "close",
+              "camera": "Push In",
+              "characters": [
+                "C02"
+              ],
+              "props": [],
+              "recipe": "insert-beat",
+              "frame": "特写，孤立细节，动作进行中：陆行远深色长大衣的口袋，布料被口袋里攥紧的手绷紧，船舱光线昏暗",
+              "shot": "镜头小幅缓推，从胸口高度推向深色大衣的口袋，布料随着藏在里面的手攥紧而绷了一下",
+              "lens": "100mm 微距，极浅景深",
+              "cameraPosition": "大衣口袋 + 平视",
+              "composition": "中心构图",
+              "eyeline": "不露脸",
+              "focus": "锁定绷紧的口袋布料",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                19,
+                19
+              ],
+              "seconds": 3,
+              "size": "close",
+              "camera": "Static Shot",
+              "characters": [
+                "C02"
+              ],
+              "props": [],
+              "frame": "特写，陆行远穿深色长大衣，半张脸在阴影里，嘴唇几乎不动地低声自语",
+              "shot": "固定镜头，长大衣男子半张脸隐在阴影里，嘴唇几乎不动，压低声音像在自言自语",
+              "lens": "85mm 长焦，浅景深",
+              "cameraPosition": "长大衣男子 + 平视正侧面",
+              "composition": "三分法",
+              "eyeline": "舱外的雾",
+              "focus": "锁定长大衣男子嘴唇",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                20,
+                20
+              ],
+              "seconds": 3,
+              "size": "wide",
+              "camera": "Static Shot",
+              "characters": [
+                "C01",
+                "C02",
+                "C04"
+              ],
+              "props": [],
+              "frame": "全景，雾中安静的船舱，沈知微、陆行远、胡二爷三人在昏暗的光里一动不动，没有人回应远处的声响",
+              "shot": "固定镜头，船舱里三个人都一动不动，雾深处闷闷传来一声汽笛，谁也没有接话",
+              "lens": "24mm 广角，深景深",
+              "cameraPosition": "船舱 + 平视正面",
+              "composition": "对称构图",
+              "eyeline": "各自低着头",
+              "focus": "锁定船舱全貌",
+              "stability": "stable",
+              "sfx": "雾深处一声闷闷的汽笛"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 3.00-second mark of the target video; Picture 3 (from Shot 3) aligns with the 6.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] Holding the framing of <Picture 1>, the fabric over the dark coat pocket tightens as the hidden right hand clenches once; a slow push in with small amplitude from chest height toward the pocket.\n[Shot 2] At 00:03.000, the camera cuts to <Picture 2>: his face half in shadow, lips barely moving, and the man in the dark coat with a low, restrained voice (S1) murmurs almost to himself: <d>[Chinese] 这条河，今晚怕是不太平。</d> static shot.\n[Shot 3] At 00:06.000, the shot cuts to the hushed cabin of <Picture 3>: a muffled steam whistle sounds once deep in the fog off screen and no one answers it; the camera holds a static shot on the stillness.\n\noverall_soundscape: Coat fabric creaks faintly under the clenching hand, water passes below in a low wash, and a distant muffled steam whistle rolls once through the fog.\n\nnon_diegetic_music: A single sustained low cello tone at a very slow tempo, fading before the end.",
+          "blocking": "陆行远在画面左侧靠舱壁坐，右手揣在大衣口袋里；沈知微在右侧舱角抱着皮箱；胡二爷在两人之间的长凳上，三人各隔约两步，谁都没看谁。",
+          "soundscape": "攥紧的手让大衣布料轻轻一响，船底下流水低低地涌过，远处一声闷住的汽笛在雾里滚过",
+          "music": "一个持续的低音大提琴长音，速度很慢，结束前淡出"
+        },
+        {
+          "id": "E01-10",
+          "sceneIndex": 2,
+          "cuts": [
+            {
+              "beats": [
+                21,
+                21
+              ],
+              "seconds": 5,
+              "size": "extreme-close",
+              "camera": "Push In",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "大特写，昏暗船舱里旧皮箱上泛着绿锈的铜扣，沈知微的双臂环在箱沿，雾从画面边缘漫进来",
+              "shot": "镜头小幅缓推，贴近皮箱上泛着绿锈的铜扣，年轻女子的双臂紧紧环着箱沿，雾从边缘漫进画面，她始终没有开口",
+              "lens": "100mm 微距，极浅景深",
+              "cameraPosition": "皮箱铜扣 + 平视",
+              "composition": "中心构图",
+              "eyeline": "年轻女子低头看着皮箱",
+              "focus": "锁定铜扣",
+              "stability": "stable"
+            },
+            {
+              "beats": [
+                22,
+                22
+              ],
+              "seconds": 3,
+              "size": "extreme-close",
+              "camera": "Static Shot",
+              "characters": [
+                "C01"
+              ],
+              "props": [
+                "P01"
+              ],
+              "frame": "大特写，铜扣闪了一下光，远处虚焦的背景里栈桥的灯缩成一粒黄豆大的光，熄灭了",
+              "shot": "固定镜头，铜扣闪了一下光，远处虚掉的背景里栈桥的灯缩成豆大的一点黄光，随即熄灭，铜扣的暗光成了画面里最后的亮点",
+              "lens": "100mm 微距，极浅景深",
+              "cameraPosition": "皮箱铜扣 + 平视",
+              "composition": "三分法",
+              "eyeline": "年轻女子低头看着皮箱",
+              "focus": "锁定铜扣，背景灯光虚化",
+              "stability": "stable",
+              "lighting": "远处一点暖黄灯光熄灭后只剩铜扣的冷光"
+            }
+          ],
+          "h3Prompt": "How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 2) aligns with the 5.00-second mark of the target video.\n\nintegrated_multimodal_description:\n[Shot 1] The extreme close framing of <Picture 1> holds on the green-tarnished brass clasp, the young woman's arms wrapped around the case edge; a slow push in with small amplitude as fog creeps across the frame, and the young woman with a cold, steady voice (S1) says in an off-screen voiceover: <d>[Chinese] 谁都别碰它。到了县城，它就是我全部的话。</d> while her lips remain completely closed.\n[Shot 2] At 00:05.000, the camera cuts to <Picture 2>: the clasp glints once, and in the blurred distance the pier lantern shrinks to a bean of yellow light and dies; the camera holds a static shot, leaving the dull glint as the last bright point in the frame.\n\noverall_soundscape: Water slides under the hull beneath the fading whistle's echo, leather creaks under tightening arms, and the cabin holds its hush as the distant light goes out.\n\nnon_diegetic_music: Sparse low strings and a single soft piano note at a slow tempo, thinning to silence as the light dies.",
+          "blocking": "沈知微坐在画面右侧的舱角，双臂环着膝上的旧皮箱，皮箱铜扣在画面中央；舱口在画面左侧深处，雾从那里漫进来。",
+          "soundscape": "渐弱的汽笛回声下流水滑过船底，收紧的手臂让皮面轻轻作响，远处的灯熄灭时船舱一片寂静",
+          "music": "稀疏的低音弦乐和一个轻柔的钢琴单音，慢速，随灯灭逐渐归于无声",
+          "note": "结尾段：VO 压大特写收在灯灭，悬念交给下一集"
+        }
+      ]
+    }
+  ]
+}

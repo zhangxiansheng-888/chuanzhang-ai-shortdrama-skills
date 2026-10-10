@@ -1,0 +1,5 @@
+interface:
+  display_name: "船长AI视界·场景道具"
+  short_description: "制定场景、叙事道具及跨镜头一致性方案"
+  brand_color: "#82D8A5"
+  default_prompt: "使用 $chuanzhang-changjing 处理我提供的小说素材。"

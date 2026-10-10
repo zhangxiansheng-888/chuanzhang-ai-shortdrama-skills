@@ -1,0 +1,5 @@
+interface:
+  display_name: "船长AI视界·改编大纲"
+  short_description: "把小说整理成分集大纲、爽点与制作资产清单"
+  brand_color: "#82D8A5"
+  default_prompt: "使用 $chuanzhang-dagang 处理我提供的小说素材。"

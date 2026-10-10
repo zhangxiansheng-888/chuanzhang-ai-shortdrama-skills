@@ -1,0 +1,5 @@
+interface:
+  display_name: "船长AI视界·角色设定"
+  short_description: "提取人物画像、造型提示词与音色设定"
+  brand_color: "#82D8A5"
+  default_prompt: "使用 $chuanzhang-juese 处理我提供的小说素材。"
